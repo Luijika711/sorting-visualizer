@@ -1,0 +1,17 @@
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\bin\Debug\net6.0-windows\SortingVisualizer.exe
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\bin\Debug\net6.0-windows\SortingVisualizer.deps.json
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\bin\Debug\net6.0-windows\SortingVisualizer.runtimeconfig.json
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\bin\Debug\net6.0-windows\SortingVisualizer.dll
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\bin\Debug\net6.0-windows\SortingVisualizer.pdb
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\net6.0-windows\SortingVisualizer.csproj.AssemblyReference.cache
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\net6.0-windows\SortingVisualizer.Form1.resources
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\net6.0-windows\SortingVisualizer.csproj.GenerateResource.cache
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\net6.0-windows\SortingVisualizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\net6.0-windows\SortingVisualizer.AssemblyInfoInputs.cache
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\net6.0-windows\SortingVisualizer.AssemblyInfo.cs
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\net6.0-windows\SortingVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\net6.0-windows\SortingVisualizer.dll
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\net6.0-windows\refint\SortingVisualizer.dll
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\net6.0-windows\SortingVisualizer.pdb
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\net6.0-windows\SortingVisualizer.genruntimeconfig.cache
+C:\Users\luiji\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\net6.0-windows\ref\SortingVisualizer.dll
